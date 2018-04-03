@@ -1,0 +1,25 @@
+{
+  "career":{
+    "info":"To pursue a challenging career in leading and progressive web hosting company offering opportunities for utilizing my skills towards the growth of the company."
+  },
+  "education":[
+    {
+      "degree":"SSC",
+      "School":"Sri Chaitanya Techno School",
+      "data":["2013","95%"]
+    },
+    {
+      "degree":"INTERMEDIATE",
+      "School":"Sri Chaitanya Junior College",
+      "data":["2015","91%"]
+    },
+
+    {
+      "degree":"GRADUATION",
+      "School":"Sree Vidyanikethan Engineering College",
+      "data":["2019","75%"]
+    }
+
+  ]
+
+    }
