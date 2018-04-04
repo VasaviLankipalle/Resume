@@ -20,6 +20,28 @@
       "data":["2019","75%"]
     }
 
+  ],
+  "skills":[
+    {
+      "name":"Operating system",
+      "info":["Windows","Linux","Fedora","Ubuntu"]
+    },
+    {
+      "name":"Languages",
+      "info":["C","C++","Java","Python"]
+    },
+    {
+      "name":"Databases",
+      "info":["Oracle","MySQL"]
+    },
+    {
+      "name":"WebTechnologies",
+      "info":["HTML","CSS","Javascript"]
+    },
+    {
+      "name":"Frameworks",
+      "info":["Bootstrap",".net"]
+    }
   ]
 
     }
